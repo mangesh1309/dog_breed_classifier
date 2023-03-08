@@ -1,4 +1,4 @@
-# dog_breed_classifier
+# Dog_breed_classifier
 
 ### End-To-End Multi-Class Dog Breed Classification
 
